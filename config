@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://NetWallow:WANGwang137828@github.com/NetWallow/BackUp.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
